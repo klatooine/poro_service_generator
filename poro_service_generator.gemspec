@@ -2,7 +2,7 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "poro_service_generator"
-  s.version     = "0.1"
+  s.version     = "0.2"
   s.platform    = "ruby"
   s.authors     = ["Javier Collazos"]
   s.email       = ["klatooine@gmail.com"]
